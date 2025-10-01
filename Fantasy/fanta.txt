@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fantasy LaLiga</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen">
+  <div class="container mx-auto p-6">
+    <h1 class="text-3xl font-bold mb-6">⚽ Fantasy LaLiga</h1>
+
+    <!-- Tabs -->
+    <div class="flex space-x-6 border-b mb-6">
+      <button class="tab-btn text-blue-600 border-b-2 border-blue-600 px-3 py-2" data-tab="mercado">Mercado</button>
+      <button class="tab-btn text-gray-600 px-3 py-2" data-tab="equipo">Mi Equipo</button>
+      <button class="tab-btn text-gray-600 px-3 py-2" data-tab="liga">Liga</button>
+      <button class="tab-btn text-gray-600 px-3 py-2" data-tab="estadio">Estadio</button>
+    </div>
+
+    <!-- Mercado -->
+    <div id="mercado-tab" class="tab-content">
+      <div class="flex gap-4 mb-6">
+        <select id="position-filter" class="px-3 py-2 border rounded">
+          <option value="">Todas las posiciones</option>
+          <option value="GK">Porteros</option>
+          <option value="DEF">Defensas</option>
+          <option value="MID">Centrocampistas</option>
+          <option value="FWD">Delanteros</option>
+        </select>
+        <select id="team-filter" class="px-3 py-2 border rounded">
+          <option value="">Todos los equipos</option>
+        </select>
+      </div>
+      <div id="players-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+    </div>
+
+    <!-- Equipo -->
+    <div id="equipo-tab" class="tab-content hidden">
+      <h2 class="text-2xl font-bold mb-4">Mi Equipo</h2>
+      <div id="formation-field" class="relative w-full h-96 bg-green-700 rounded-lg overflow-hidden mb-6"></div>
+      <div id="selected-players" class="mb-4"></div>
+      <div id="bench-players"></div>
+      <div class="mt-4 flex justify-between">
+        <span id="budget" class="font-bold text-lg text-green-700">€100M</span>
+        <span id="team-value" class="font-bold text-lg text-blue-700">€0M</span>
+        <span id="total-points" class="font-bold text-lg text-red-700">0 pts</span>
+      </div>
+    </div>
+
+    <!-- Liga -->
+    <div id="liga-tab" class="tab-content hidden">
+      <h2 class="text-2xl font-bold mb-4">Clasificación</h2>
+      <table class="w-full bg-white rounded shadow">
+        <thead><tr><th>#</th><th>Manager</th><th>Puntos</th></tr></thead>
+        <tbody id="league-table"></tbody>
+      </table>
+      <h2 class="text-2xl font-bold mt-6 mb-4">Próximos Partidos</h2>
+      <div id="fixtures"></div>
+    </div>
+
+    <!-- Estadio -->
+    <div id="estadio-tab" class="tab-content hidden">
+      <h2 class="text-2xl font-bold mb-4">Mi Estadio</h2>
+      <div id="stadium-upgrades" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+      <div class="mt-6 flex justify-between text-lg font-semibold">
+        <span>Capacidad: <span id="stadium-capacity">0</span></span>
+        <span>Ingresos por partido: <span id="stadium-income">0K</span></span>
+        <span>Inversión total: <span id="total-investment">€0M</span></span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let players = []; // se cargan desde JSON
+    const gameState = {
+      budget: 100,
+      teamValue: 0,
+      totalPoints: 0,
+      selectedPlayers: Array(11).fill(null),
+      benchPlayers: [],
+      currentFormation: "4-4-2",
+      stadium: { upgrades: {}, capacity: 0, matchIncome: 0, totalInvestment: 0 }
+    };
+
+    // ✅ Cargar jugadores desde JSON
+    async function loadPlayers() {
+      try {
+        const res = await fetch("jugadores_laliga_completo.json");
+        players = await res.json();
+        populateTeamFilter();
+        renderPlayers();
+      } catch (err) {
+        console.error("Error cargando jugadores:", err);
+      }
+    }
+
+    // Render mercado
+    function renderPlayers() {
+      const grid = document.getElementById("players-grid");
+      const pos = document.getElementById("position-filter").value;
+      const team = document.getElementById("team-filter").value;
+
+      let filtered = players.filter(p => {
+        return (!pos || p.posicion === pos) && (!team || p.equipo === team);
+      });
+
+      grid.innerHTML = filtered.map(player => `
+        <div class="player-card bg-white border rounded-lg p-4 hover:shadow-lg">
+          <div class="flex flex-col items-center mb-3">
+            <img src="${player.foto}" class="w-16 h-16 rounded-full mb-2 object-cover">
+            <h3 class="font-bold text-sm text-center">${player.nombre}</h3>
+            <p class="text-xs text-gray-600">${player.equipo}</p>
+          </div>
+          <div class="flex justify-between items-center mb-2">
+            <span class="inline-block px-2 py-1 text-xs rounded bg-gray-100">${player.posicion}</span>
+            <span class="text-lg">${player.form}</span>
+          </div>
+          <div class="flex justify-between items-center mb-3">
+            <span class="text-lg font-bold text-green-600">€${player.precio}M</span>
+            <span class="text-sm font-semibold">${player.puntos} pts</span>
+          </div>
+          <button onclick="selectPlayerFromMarket(${player.id})"
+            class="w-full py-2 px-3 bg-blue-600 text-white rounded hover:bg-blue-700 text-sm font-semibold">
+            Fichar
+          </button>
+        </div>
+      `).join("");
+    }
+
+    // Rellenar filtro de equipos
+    function populateTeamFilter() {
+      const teamFilter = document.getElementById("team-filter");
+      const equipos = [...new Set(players.map(p => p.equipo))].sort();
+      equipos.forEach(equipo => {
+        const option = document.createElement("option");
+        option.value = equipo;
+        option.textContent = equipo;
+        teamFilter.appendChild(option);
+      });
+    }
+
+    // Tab navigation
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const tabName = e.target.dataset.tab;
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('text-blue-600','border-b-2','border-blue-600'));
+        e.target.classList.add('text-blue-600','border-b-2','border-blue-600');
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.add('hidden'));
+        document.getElementById(`${tabName}-tab`).classList.remove('hidden');
+      });
+    });
+
+    // Eventos filtros
+    document.getElementById("position-filter").addEventListener("change", renderPlayers);
+    document.getElementById("team-filter").addEventListener("change", renderPlayers);
+
+    // Iniciar juego
+    loadPlayers();
+  </script>
+</body>
+</html>

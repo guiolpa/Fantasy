@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jugador 1",
+    "equipo": "Real Madrid",
+    "posicion": "GK",
+    "precio": 4.1,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 2,
+    "nombre": "Jugador 2",
+    "equipo": "Real Madrid",
+    "posicion": "GK",
+    "precio": 5.6,
+    "puntos": 76,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 3,
+    "nombre": "Jugador 3",
+    "equipo": "Real Madrid",
+    "posicion": "GK",
+    "precio": 5.5,
+    "puntos": 76,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 4,
+    "nombre": "Jugador 4",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 4.8,
+    "puntos": 83,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 5,
+    "nombre": "Jugador 5",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 5.6,
+    "puntos": 57,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 6,
+    "nombre": "Jugador 6",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 4.5,
+    "puntos": 47,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 7,
+    "nombre": "Jugador 7",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 6.0,
+    "puntos": 62,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 8,
+    "nombre": "Jugador 8",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 5.5,
+    "puntos": 45,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 9,
+    "nombre": "Jugador 9",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 90,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 10,
+    "nombre": "Jugador 10",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 89,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 11,
+    "nombre": "Jugador 11",
+    "equipo": "Real Madrid",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 56,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 12,
+    "nombre": "Jugador 12",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 7.4,
+    "puntos": 89,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 13,
+    "nombre": "Jugador 13",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 8.7,
+    "puntos": 55,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 14,
+    "nombre": "Jugador 14",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 67,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 15,
+    "nombre": "Jugador 15",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 9.0,
+    "puntos": 56,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 16,
+    "nombre": "Jugador 16",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 7.5,
+    "puntos": 67,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 17,
+    "nombre": "Jugador 17",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 18,
+    "nombre": "Jugador 18",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 8.5,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 19,
+    "nombre": "Jugador 19",
+    "equipo": "Real Madrid",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 92,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 20,
+    "nombre": "Jugador 20",
+    "equipo": "Real Madrid",
+    "posicion": "FWD",
+    "precio": 11.2,
+    "puntos": 79,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 21,
+    "nombre": "Jugador 21",
+    "equipo": "Real Madrid",
+    "posicion": "FWD",
+    "precio": 8.2,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 22,
+    "nombre": "Jugador 22",
+    "equipo": "Real Madrid",
+    "posicion": "FWD",
+    "precio": 10.2,
+    "puntos": 59,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 23,
+    "nombre": "Jugador 23",
+    "equipo": "Real Madrid",
+    "posicion": "FWD",
+    "precio": 10.1,
+    "puntos": 92,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 24,
+    "nombre": "Jugador 24",
+    "equipo": "Real Madrid",
+    "posicion": "FWD",
+    "precio": 10.3,
+    "puntos": 59,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 25,
+    "nombre": "Jugador 25",
+    "equipo": "Real Madrid",
+    "posicion": "FWD",
+    "precio": 9.9,
+    "puntos": 56,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 26,
+    "nombre": "Jugador 26",
+    "equipo": "Barcelona",
+    "posicion": "GK",
+    "precio": 5.9,
+    "puntos": 80,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 27,
+    "nombre": "Jugador 27",
+    "equipo": "Barcelona",
+    "posicion": "GK",
+    "precio": 5.1,
+    "puntos": 82,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 28,
+    "nombre": "Jugador 28",
+    "equipo": "Barcelona",
+    "posicion": "GK",
+    "precio": 4.4,
+    "puntos": 60,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 29,
+    "nombre": "Jugador 29",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 6.4,
+    "puntos": 83,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 30,
+    "nombre": "Jugador 30",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 4.8,
+    "puntos": 62,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 31,
+    "nombre": "Jugador 31",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 90,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 32,
+    "nombre": "Jugador 32",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 54,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 33,
+    "nombre": "Jugador 33",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 63,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 34,
+    "nombre": "Jugador 34",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 47,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 35,
+    "nombre": "Jugador 35",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 6.4,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 36,
+    "nombre": "Jugador 36",
+    "equipo": "Barcelona",
+    "posicion": "DEF",
+    "precio": 4.9,
+    "puntos": 76,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 37,
+    "nombre": "Jugador 37",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 84,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 38,
+    "nombre": "Jugador 38",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 7.5,
+    "puntos": 51,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 39,
+    "nombre": "Jugador 39",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 7.7,
+    "puntos": 75,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 40,
+    "nombre": "Jugador 40",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 8.0,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 41,
+    "nombre": "Jugador 41",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 60,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 42,
+    "nombre": "Jugador 42",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 7.0,
+    "puntos": 80,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 43,
+    "nombre": "Jugador 43",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 6.4,
+    "puntos": 76,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 44,
+    "nombre": "Jugador 44",
+    "equipo": "Barcelona",
+    "posicion": "MID",
+    "precio": 7.6,
+    "puntos": 59,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 45,
+    "nombre": "Jugador 45",
+    "equipo": "Barcelona",
+    "posicion": "FWD",
+    "precio": 7.9,
+    "puntos": 67,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 46,
+    "nombre": "Jugador 46",
+    "equipo": "Barcelona",
+    "posicion": "FWD",
+    "precio": 11.8,
+    "puntos": 67,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 47,
+    "nombre": "Jugador 47",
+    "equipo": "Barcelona",
+    "posicion": "FWD",
+    "precio": 7.0,
+    "puntos": 58,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 48,
+    "nombre": "Jugador 48",
+    "equipo": "Barcelona",
+    "posicion": "FWD",
+    "precio": 10.4,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 49,
+    "nombre": "Jugador 49",
+    "equipo": "Barcelona",
+    "posicion": "FWD",
+    "precio": 9.3,
+    "puntos": 43,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 50,
+    "nombre": "Jugador 50",
+    "equipo": "Barcelona",
+    "posicion": "FWD",
+    "precio": 8.6,
+    "puntos": 68,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 51,
+    "nombre": "Jugador 51",
+    "equipo": "Atlético Madrid",
+    "posicion": "GK",
+    "precio": 4.8,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 52,
+    "nombre": "Jugador 52",
+    "equipo": "Atlético Madrid",
+    "posicion": "GK",
+    "precio": 5.7,
+    "puntos": 62,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 53,
+    "nombre": "Jugador 53",
+    "equipo": "Atlético Madrid",
+    "posicion": "GK",
+    "precio": 4.7,
+    "puntos": 43,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 54,
+    "nombre": "Jugador 54",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 5.2,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 55,
+    "nombre": "Jugador 55",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 4.9,
+    "puntos": 91,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 56,
+    "nombre": "Jugador 56",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 4.4,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 57,
+    "nombre": "Jugador 57",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 64,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 58,
+    "nombre": "Jugador 58",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 5.6,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 59,
+    "nombre": "Jugador 59",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 4.4,
+    "puntos": 81,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 60,
+    "nombre": "Jugador 60",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 4.9,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 61,
+    "nombre": "Jugador 61",
+    "equipo": "Atlético Madrid",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 80,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 62,
+    "nombre": "Jugador 62",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 7.4,
+    "puntos": 71,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 63,
+    "nombre": "Jugador 63",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 79,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 64,
+    "nombre": "Jugador 64",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 6.4,
+    "puntos": 75,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 65,
+    "nombre": "Jugador 65",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 8.0,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 66,
+    "nombre": "Jugador 66",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 6.5,
+    "puntos": 42,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 67,
+    "nombre": "Jugador 67",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 7.8,
+    "puntos": 94,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 68,
+    "nombre": "Jugador 68",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 7.7,
+    "puntos": 63,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 69,
+    "nombre": "Jugador 69",
+    "equipo": "Atlético Madrid",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 70,
+    "nombre": "Jugador 70",
+    "equipo": "Atlético Madrid",
+    "posicion": "FWD",
+    "precio": 9.8,
+    "puntos": 72,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 71,
+    "nombre": "Jugador 71",
+    "equipo": "Atlético Madrid",
+    "posicion": "FWD",
+    "precio": 8.6,
+    "puntos": 56,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 72,
+    "nombre": "Jugador 72",
+    "equipo": "Atlético Madrid",
+    "posicion": "FWD",
+    "precio": 8.5,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 73,
+    "nombre": "Jugador 73",
+    "equipo": "Atlético Madrid",
+    "posicion": "FWD",
+    "precio": 7.5,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 74,
+    "nombre": "Jugador 74",
+    "equipo": "Atlético Madrid",
+    "posicion": "FWD",
+    "precio": 7.2,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 75,
+    "nombre": "Jugador 75",
+    "equipo": "Atlético Madrid",
+    "posicion": "FWD",
+    "precio": 7.1,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 76,
+    "nombre": "Jugador 76",
+    "equipo": "Sevilla",
+    "posicion": "GK",
+    "precio": 6.3,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 77,
+    "nombre": "Jugador 77",
+    "equipo": "Sevilla",
+    "posicion": "GK",
+    "precio": 5.6,
+    "puntos": 49,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 78,
+    "nombre": "Jugador 78",
+    "equipo": "Sevilla",
+    "posicion": "GK",
+    "precio": 5.1,
+    "puntos": 40,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 79,
+    "nombre": "Jugador 79",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 6.3,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 80,
+    "nombre": "Jugador 80",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 81,
+    "nombre": "Jugador 81",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 4.4,
+    "puntos": 65,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 82,
+    "nombre": "Jugador 82",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 62,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 83,
+    "nombre": "Jugador 83",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 47,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 84,
+    "nombre": "Jugador 84",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 59,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 85,
+    "nombre": "Jugador 85",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 95,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 86,
+    "nombre": "Jugador 86",
+    "equipo": "Sevilla",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 87,
+    "nombre": "Jugador 87",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 86,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 88,
+    "nombre": "Jugador 88",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 6.9,
+    "puntos": 71,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 89,
+    "nombre": "Jugador 89",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 7.0,
+    "puntos": 70,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 90,
+    "nombre": "Jugador 90",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 6.2,
+    "puntos": 60,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 91,
+    "nombre": "Jugador 91",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 8.2,
+    "puntos": 84,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 92,
+    "nombre": "Jugador 92",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 6.1,
+    "puntos": 40,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 93,
+    "nombre": "Jugador 93",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 6.6,
+    "puntos": 54,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 94,
+    "nombre": "Jugador 94",
+    "equipo": "Sevilla",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 55,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 95,
+    "nombre": "Jugador 95",
+    "equipo": "Sevilla",
+    "posicion": "FWD",
+    "precio": 11.1,
+    "puntos": 71,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 96,
+    "nombre": "Jugador 96",
+    "equipo": "Sevilla",
+    "posicion": "FWD",
+    "precio": 11.9,
+    "puntos": 73,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 97,
+    "nombre": "Jugador 97",
+    "equipo": "Sevilla",
+    "posicion": "FWD",
+    "precio": 11.4,
+    "puntos": 79,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 98,
+    "nombre": "Jugador 98",
+    "equipo": "Sevilla",
+    "posicion": "FWD",
+    "precio": 10.1,
+    "puntos": 72,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 99,
+    "nombre": "Jugador 99",
+    "equipo": "Sevilla",
+    "posicion": "FWD",
+    "precio": 8.0,
+    "puntos": 59,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 100,
+    "nombre": "Jugador 100",
+    "equipo": "Sevilla",
+    "posicion": "FWD",
+    "precio": 10.0,
+    "puntos": 58,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 101,
+    "nombre": "Jugador 101",
+    "equipo": "Valencia",
+    "posicion": "GK",
+    "precio": 5.3,
+    "puntos": 82,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 102,
+    "nombre": "Jugador 102",
+    "equipo": "Valencia",
+    "posicion": "GK",
+    "precio": 5.8,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 103,
+    "nombre": "Jugador 103",
+    "equipo": "Valencia",
+    "posicion": "GK",
+    "precio": 6.3,
+    "puntos": 60,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 104,
+    "nombre": "Jugador 104",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 5.9,
+    "puntos": 63,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 105,
+    "nombre": "Jugador 105",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 6.1,
+    "puntos": 73,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 106,
+    "nombre": "Jugador 106",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 80,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 107,
+    "nombre": "Jugador 107",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 47,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 108,
+    "nombre": "Jugador 108",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 82,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 109,
+    "nombre": "Jugador 109",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 63,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 110,
+    "nombre": "Jugador 110",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 4.0,
+    "puntos": 57,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 111,
+    "nombre": "Jugador 111",
+    "equipo": "Valencia",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 112,
+    "nombre": "Jugador 112",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 7.3,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 113,
+    "nombre": "Jugador 113",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 7.4,
+    "puntos": 51,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 114,
+    "nombre": "Jugador 114",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 7.0,
+    "puntos": 57,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 115,
+    "nombre": "Jugador 115",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 92,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 116,
+    "nombre": "Jugador 116",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 7.8,
+    "puntos": 63,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 117,
+    "nombre": "Jugador 117",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 8.2,
+    "puntos": 82,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 118,
+    "nombre": "Jugador 118",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 8.6,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 119,
+    "nombre": "Jugador 119",
+    "equipo": "Valencia",
+    "posicion": "MID",
+    "precio": 8.7,
+    "puntos": 77,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 120,
+    "nombre": "Jugador 120",
+    "equipo": "Valencia",
+    "posicion": "FWD",
+    "precio": 11.9,
+    "puntos": 51,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 121,
+    "nombre": "Jugador 121",
+    "equipo": "Valencia",
+    "posicion": "FWD",
+    "precio": 11.4,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 122,
+    "nombre": "Jugador 122",
+    "equipo": "Valencia",
+    "posicion": "FWD",
+    "precio": 9.0,
+    "puntos": 76,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 123,
+    "nombre": "Jugador 123",
+    "equipo": "Valencia",
+    "posicion": "FWD",
+    "precio": 9.9,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 124,
+    "nombre": "Jugador 124",
+    "equipo": "Valencia",
+    "posicion": "FWD",
+    "precio": 11.3,
+    "puntos": 77,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 125,
+    "nombre": "Jugador 125",
+    "equipo": "Valencia",
+    "posicion": "FWD",
+    "precio": 9.3,
+    "puntos": 50,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 126,
+    "nombre": "Jugador 126",
+    "equipo": "Villarreal",
+    "posicion": "GK",
+    "precio": 4.1,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 127,
+    "nombre": "Jugador 127",
+    "equipo": "Villarreal",
+    "posicion": "GK",
+    "precio": 4.8,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 128,
+    "nombre": "Jugador 128",
+    "equipo": "Villarreal",
+    "posicion": "GK",
+    "precio": 6.2,
+    "puntos": 59,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 129,
+    "nombre": "Jugador 129",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 51,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 130,
+    "nombre": "Jugador 130",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 5.5,
+    "puntos": 89,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 131,
+    "nombre": "Jugador 131",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 132,
+    "nombre": "Jugador 132",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 85,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 133,
+    "nombre": "Jugador 133",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 5.5,
+    "puntos": 58,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 134,
+    "nombre": "Jugador 134",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 4.5,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 135,
+    "nombre": "Jugador 135",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 5.6,
+    "puntos": 95,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 136,
+    "nombre": "Jugador 136",
+    "equipo": "Villarreal",
+    "posicion": "DEF",
+    "precio": 5.2,
+    "puntos": 50,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 137,
+    "nombre": "Jugador 137",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 8.9,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 138,
+    "nombre": "Jugador 138",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 6.3,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 139,
+    "nombre": "Jugador 139",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 8.0,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 140,
+    "nombre": "Jugador 140",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 6.9,
+    "puntos": 92,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 141,
+    "nombre": "Jugador 141",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 8.8,
+    "puntos": 41,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 142,
+    "nombre": "Jugador 142",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 143,
+    "nombre": "Jugador 143",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 8.5,
+    "puntos": 42,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 144,
+    "nombre": "Jugador 144",
+    "equipo": "Villarreal",
+    "posicion": "MID",
+    "precio": 7.4,
+    "puntos": 73,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 145,
+    "nombre": "Jugador 145",
+    "equipo": "Villarreal",
+    "posicion": "FWD",
+    "precio": 10.3,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 146,
+    "nombre": "Jugador 146",
+    "equipo": "Villarreal",
+    "posicion": "FWD",
+    "precio": 7.7,
+    "puntos": 80,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 147,
+    "nombre": "Jugador 147",
+    "equipo": "Villarreal",
+    "posicion": "FWD",
+    "precio": 9.8,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 148,
+    "nombre": "Jugador 148",
+    "equipo": "Villarreal",
+    "posicion": "FWD",
+    "precio": 12.0,
+    "puntos": 58,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 149,
+    "nombre": "Jugador 149",
+    "equipo": "Villarreal",
+    "posicion": "FWD",
+    "precio": 7.8,
+    "puntos": 88,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 150,
+    "nombre": "Jugador 150",
+    "equipo": "Villarreal",
+    "posicion": "FWD",
+    "precio": 8.8,
+    "puntos": 45,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 151,
+    "nombre": "Jugador 151",
+    "equipo": "Real Sociedad",
+    "posicion": "GK",
+    "precio": 4.1,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 152,
+    "nombre": "Jugador 152",
+    "equipo": "Real Sociedad",
+    "posicion": "GK",
+    "precio": 5.1,
+    "puntos": 77,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 153,
+    "nombre": "Jugador 153",
+    "equipo": "Real Sociedad",
+    "posicion": "GK",
+    "precio": 5.1,
+    "puntos": 56,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 154,
+    "nombre": "Jugador 154",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 5.9,
+    "puntos": 72,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 155,
+    "nombre": "Jugador 155",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 50,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 156,
+    "nombre": "Jugador 156",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 157,
+    "nombre": "Jugador 157",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 43,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 158,
+    "nombre": "Jugador 158",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 55,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 159,
+    "nombre": "Jugador 159",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 4.4,
+    "puntos": 53,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 160,
+    "nombre": "Jugador 160",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 54,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 161,
+    "nombre": "Jugador 161",
+    "equipo": "Real Sociedad",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 75,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 162,
+    "nombre": "Jugador 162",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 6.1,
+    "puntos": 77,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 163,
+    "nombre": "Jugador 163",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 7.8,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 164,
+    "nombre": "Jugador 164",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 8.5,
+    "puntos": 61,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 165,
+    "nombre": "Jugador 165",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 62,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 166,
+    "nombre": "Jugador 166",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 8.4,
+    "puntos": 86,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 167,
+    "nombre": "Jugador 167",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 6.7,
+    "puntos": 53,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 168,
+    "nombre": "Jugador 168",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 169,
+    "nombre": "Jugador 169",
+    "equipo": "Real Sociedad",
+    "posicion": "MID",
+    "precio": 6.7,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 170,
+    "nombre": "Jugador 170",
+    "equipo": "Real Sociedad",
+    "posicion": "FWD",
+    "precio": 7.8,
+    "puntos": 47,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 171,
+    "nombre": "Jugador 171",
+    "equipo": "Real Sociedad",
+    "posicion": "FWD",
+    "precio": 10.3,
+    "puntos": 81,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 172,
+    "nombre": "Jugador 172",
+    "equipo": "Real Sociedad",
+    "posicion": "FWD",
+    "precio": 10.2,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 173,
+    "nombre": "Jugador 173",
+    "equipo": "Real Sociedad",
+    "posicion": "FWD",
+    "precio": 11.6,
+    "puntos": 79,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 174,
+    "nombre": "Jugador 174",
+    "equipo": "Real Sociedad",
+    "posicion": "FWD",
+    "precio": 11.1,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 175,
+    "nombre": "Jugador 175",
+    "equipo": "Real Sociedad",
+    "posicion": "FWD",
+    "precio": 8.1,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 176,
+    "nombre": "Jugador 176",
+    "equipo": "Athletic Bilbao",
+    "posicion": "GK",
+    "precio": 4.5,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 177,
+    "nombre": "Jugador 177",
+    "equipo": "Athletic Bilbao",
+    "posicion": "GK",
+    "precio": 5.8,
+    "puntos": 57,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 178,
+    "nombre": "Jugador 178",
+    "equipo": "Athletic Bilbao",
+    "posicion": "GK",
+    "precio": 5.9,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 179,
+    "nombre": "Jugador 179",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 4.8,
+    "puntos": 43,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 180,
+    "nombre": "Jugador 180",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 181,
+    "nombre": "Jugador 181",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 182,
+    "nombre": "Jugador 182",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 5.0,
+    "puntos": 84,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 183,
+    "nombre": "Jugador 183",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 4.5,
+    "puntos": 72,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 184,
+    "nombre": "Jugador 184",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 64,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 185,
+    "nombre": "Jugador 185",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 51,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 186,
+    "nombre": "Jugador 186",
+    "equipo": "Athletic Bilbao",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 42,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 187,
+    "nombre": "Jugador 187",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 7.7,
+    "puntos": 82,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 188,
+    "nombre": "Jugador 188",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 7.4,
+    "puntos": 66,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 189,
+    "nombre": "Jugador 189",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 44,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 190,
+    "nombre": "Jugador 190",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 7.6,
+    "puntos": 76,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 191,
+    "nombre": "Jugador 191",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 9.0,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 192,
+    "nombre": "Jugador 192",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 8.8,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 193,
+    "nombre": "Jugador 193",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 6.7,
+    "puntos": 56,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 194,
+    "nombre": "Jugador 194",
+    "equipo": "Athletic Bilbao",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 45,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 195,
+    "nombre": "Jugador 195",
+    "equipo": "Athletic Bilbao",
+    "posicion": "FWD",
+    "precio": 7.1,
+    "puntos": 89,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 196,
+    "nombre": "Jugador 196",
+    "equipo": "Athletic Bilbao",
+    "posicion": "FWD",
+    "precio": 9.1,
+    "puntos": 86,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 197,
+    "nombre": "Jugador 197",
+    "equipo": "Athletic Bilbao",
+    "posicion": "FWD",
+    "precio": 11.3,
+    "puntos": 78,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 198,
+    "nombre": "Jugador 198",
+    "equipo": "Athletic Bilbao",
+    "posicion": "FWD",
+    "precio": 8.1,
+    "puntos": 40,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 199,
+    "nombre": "Jugador 199",
+    "equipo": "Athletic Bilbao",
+    "posicion": "FWD",
+    "precio": 11.4,
+    "puntos": 81,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 200,
+    "nombre": "Jugador 200",
+    "equipo": "Athletic Bilbao",
+    "posicion": "FWD",
+    "precio": 7.7,
+    "puntos": 74,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 201,
+    "nombre": "Jugador 201",
+    "equipo": "Real Betis",
+    "posicion": "GK",
+    "precio": 6.0,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 202,
+    "nombre": "Jugador 202",
+    "equipo": "Real Betis",
+    "posicion": "GK",
+    "precio": 6.0,
+    "puntos": 40,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 203,
+    "nombre": "Jugador 203",
+    "equipo": "Real Betis",
+    "posicion": "GK",
+    "precio": 5.2,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 204,
+    "nombre": "Jugador 204",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 4.0,
+    "puntos": 42,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 205,
+    "nombre": "Jugador 205",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 83,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 206,
+    "nombre": "Jugador 206",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 6.3,
+    "puntos": 94,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 207,
+    "nombre": "Jugador 207",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 208,
+    "nombre": "Jugador 208",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 48,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 209,
+    "nombre": "Jugador 209",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 5.0,
+    "puntos": 60,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 210,
+    "nombre": "Jugador 210",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 6.3,
+    "puntos": 50,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 211,
+    "nombre": "Jugador 211",
+    "equipo": "Real Betis",
+    "posicion": "DEF",
+    "precio": 6.5,
+    "puntos": 65,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 212,
+    "nombre": "Jugador 212",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 213,
+    "nombre": "Jugador 213",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 8.2,
+    "puntos": 83,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 214,
+    "nombre": "Jugador 214",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 8.5,
+    "puntos": 72,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 215,
+    "nombre": "Jugador 215",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 8.9,
+    "puntos": 50,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 216,
+    "nombre": "Jugador 216",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 92,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 217,
+    "nombre": "Jugador 217",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 78,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 218,
+    "nombre": "Jugador 218",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 8.0,
+    "puntos": 70,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 219,
+    "nombre": "Jugador 219",
+    "equipo": "Real Betis",
+    "posicion": "MID",
+    "precio": 8.6,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 220,
+    "nombre": "Jugador 220",
+    "equipo": "Real Betis",
+    "posicion": "FWD",
+    "precio": 9.4,
+    "puntos": 89,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 221,
+    "nombre": "Jugador 221",
+    "equipo": "Real Betis",
+    "posicion": "FWD",
+    "precio": 7.9,
+    "puntos": 60,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 222,
+    "nombre": "Jugador 222",
+    "equipo": "Real Betis",
+    "posicion": "FWD",
+    "precio": 11.5,
+    "puntos": 84,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 223,
+    "nombre": "Jugador 223",
+    "equipo": "Real Betis",
+    "posicion": "FWD",
+    "precio": 8.6,
+    "puntos": 85,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 224,
+    "nombre": "Jugador 224",
+    "equipo": "Real Betis",
+    "posicion": "FWD",
+    "precio": 10.4,
+    "puntos": 55,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 225,
+    "nombre": "Jugador 225",
+    "equipo": "Real Betis",
+    "posicion": "FWD",
+    "precio": 8.8,
+    "puntos": 60,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 226,
+    "nombre": "Jugador 226",
+    "equipo": "Celta Vigo",
+    "posicion": "GK",
+    "precio": 6.1,
+    "puntos": 84,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 227,
+    "nombre": "Jugador 227",
+    "equipo": "Celta Vigo",
+    "posicion": "GK",
+    "precio": 6.1,
+    "puntos": 95,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 228,
+    "nombre": "Jugador 228",
+    "equipo": "Celta Vigo",
+    "posicion": "GK",
+    "precio": 4.8,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 229,
+    "nombre": "Jugador 229",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 4.6,
+    "puntos": 55,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 230,
+    "nombre": "Jugador 230",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 81,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 231,
+    "nombre": "Jugador 231",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 6.3,
+    "puntos": 55,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 232,
+    "nombre": "Jugador 232",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 233,
+    "nombre": "Jugador 233",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 42,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 234,
+    "nombre": "Jugador 234",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 84,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 235,
+    "nombre": "Jugador 235",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 6.3,
+    "puntos": 90,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 236,
+    "nombre": "Jugador 236",
+    "equipo": "Celta Vigo",
+    "posicion": "DEF",
+    "precio": 5.9,
+    "puntos": 50,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 237,
+    "nombre": "Jugador 237",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 6.6,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 238,
+    "nombre": "Jugador 238",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 8.7,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 239,
+    "nombre": "Jugador 239",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 7.1,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 240,
+    "nombre": "Jugador 240",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 8.8,
+    "puntos": 89,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 241,
+    "nombre": "Jugador 241",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 7.3,
+    "puntos": 44,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 242,
+    "nombre": "Jugador 242",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 41,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 243,
+    "nombre": "Jugador 243",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 7.2,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 244,
+    "nombre": "Jugador 244",
+    "equipo": "Celta Vigo",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 245,
+    "nombre": "Jugador 245",
+    "equipo": "Celta Vigo",
+    "posicion": "FWD",
+    "precio": 10.1,
+    "puntos": 72,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 246,
+    "nombre": "Jugador 246",
+    "equipo": "Celta Vigo",
+    "posicion": "FWD",
+    "precio": 7.5,
+    "puntos": 75,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 247,
+    "nombre": "Jugador 247",
+    "equipo": "Celta Vigo",
+    "posicion": "FWD",
+    "precio": 7.9,
+    "puntos": 82,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 248,
+    "nombre": "Jugador 248",
+    "equipo": "Celta Vigo",
+    "posicion": "FWD",
+    "precio": 10.3,
+    "puntos": 80,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 249,
+    "nombre": "Jugador 249",
+    "equipo": "Celta Vigo",
+    "posicion": "FWD",
+    "precio": 7.7,
+    "puntos": 79,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 250,
+    "nombre": "Jugador 250",
+    "equipo": "Celta Vigo",
+    "posicion": "FWD",
+    "precio": 8.8,
+    "puntos": 44,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 251,
+    "nombre": "Jugador 251",
+    "equipo": "Osasuna",
+    "posicion": "GK",
+    "precio": 4.4,
+    "puntos": 81,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 252,
+    "nombre": "Jugador 252",
+    "equipo": "Osasuna",
+    "posicion": "GK",
+    "precio": 6.3,
+    "puntos": 62,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 253,
+    "nombre": "Jugador 253",
+    "equipo": "Osasuna",
+    "posicion": "GK",
+    "precio": 6.3,
+    "puntos": 72,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 254,
+    "nombre": "Jugador 254",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 4.0,
+    "puntos": 54,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 255,
+    "nombre": "Jugador 255",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 6.5,
+    "puntos": 93,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 256,
+    "nombre": "Jugador 256",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 6.0,
+    "puntos": 83,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 257,
+    "nombre": "Jugador 257",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 4.6,
+    "puntos": 48,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 258,
+    "nombre": "Jugador 258",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 83,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 259,
+    "nombre": "Jugador 259",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 4.5,
+    "puntos": 94,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 260,
+    "nombre": "Jugador 260",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 5.3,
+    "puntos": 77,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 261,
+    "nombre": "Jugador 261",
+    "equipo": "Osasuna",
+    "posicion": "DEF",
+    "precio": 6.0,
+    "puntos": 65,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 262,
+    "nombre": "Jugador 262",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 6.4,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 263,
+    "nombre": "Jugador 263",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 7.8,
+    "puntos": 45,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 264,
+    "nombre": "Jugador 264",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 7.6,
+    "puntos": 79,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 265,
+    "nombre": "Jugador 265",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 7.2,
+    "puntos": 47,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 266,
+    "nombre": "Jugador 266",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 6.1,
+    "puntos": 42,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 267,
+    "nombre": "Jugador 267",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 7.3,
+    "puntos": 89,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 268,
+    "nombre": "Jugador 268",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 9.0,
+    "puntos": 59,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 269,
+    "nombre": "Jugador 269",
+    "equipo": "Osasuna",
+    "posicion": "MID",
+    "precio": 8.4,
+    "puntos": 67,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 270,
+    "nombre": "Jugador 270",
+    "equipo": "Osasuna",
+    "posicion": "FWD",
+    "precio": 10.7,
+    "puntos": 81,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 271,
+    "nombre": "Jugador 271",
+    "equipo": "Osasuna",
+    "posicion": "FWD",
+    "precio": 8.8,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 272,
+    "nombre": "Jugador 272",
+    "equipo": "Osasuna",
+    "posicion": "FWD",
+    "precio": 9.5,
+    "puntos": 90,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 273,
+    "nombre": "Jugador 273",
+    "equipo": "Osasuna",
+    "posicion": "FWD",
+    "precio": 8.9,
+    "puntos": 65,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 274,
+    "nombre": "Jugador 274",
+    "equipo": "Osasuna",
+    "posicion": "FWD",
+    "precio": 11.8,
+    "puntos": 74,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 275,
+    "nombre": "Jugador 275",
+    "equipo": "Osasuna",
+    "posicion": "FWD",
+    "precio": 10.7,
+    "puntos": 60,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 276,
+    "nombre": "Jugador 276",
+    "equipo": "Espanyol",
+    "posicion": "GK",
+    "precio": 5.9,
+    "puntos": 80,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 277,
+    "nombre": "Jugador 277",
+    "equipo": "Espanyol",
+    "posicion": "GK",
+    "precio": 6.2,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 278,
+    "nombre": "Jugador 278",
+    "equipo": "Espanyol",
+    "posicion": "GK",
+    "precio": 4.6,
+    "puntos": 92,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 279,
+    "nombre": "Jugador 279",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 280,
+    "nombre": "Jugador 280",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 4.6,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 281,
+    "nombre": "Jugador 281",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 5.2,
+    "puntos": 81,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 282,
+    "nombre": "Jugador 282",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 64,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 283,
+    "nombre": "Jugador 283",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 5.0,
+    "puntos": 82,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 284,
+    "nombre": "Jugador 284",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 94,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 285,
+    "nombre": "Jugador 285",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 286,
+    "nombre": "Jugador 286",
+    "equipo": "Espanyol",
+    "posicion": "DEF",
+    "precio": 5.3,
+    "puntos": 51,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 287,
+    "nombre": "Jugador 287",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 8.4,
+    "puntos": 53,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 288,
+    "nombre": "Jugador 288",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 7.8,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 289,
+    "nombre": "Jugador 289",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 8.9,
+    "puntos": 81,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 290,
+    "nombre": "Jugador 290",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 8.7,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 291,
+    "nombre": "Jugador 291",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 7.7,
+    "puntos": 40,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 292,
+    "nombre": "Jugador 292",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 7.6,
+    "puntos": 43,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 293,
+    "nombre": "Jugador 293",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 6.4,
+    "puntos": 55,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 294,
+    "nombre": "Jugador 294",
+    "equipo": "Espanyol",
+    "posicion": "MID",
+    "precio": 8.0,
+    "puntos": 85,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 295,
+    "nombre": "Jugador 295",
+    "equipo": "Espanyol",
+    "posicion": "FWD",
+    "precio": 9.4,
+    "puntos": 83,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 296,
+    "nombre": "Jugador 296",
+    "equipo": "Espanyol",
+    "posicion": "FWD",
+    "precio": 8.2,
+    "puntos": 86,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 297,
+    "nombre": "Jugador 297",
+    "equipo": "Espanyol",
+    "posicion": "FWD",
+    "precio": 8.1,
+    "puntos": 63,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 298,
+    "nombre": "Jugador 298",
+    "equipo": "Espanyol",
+    "posicion": "FWD",
+    "precio": 9.6,
+    "puntos": 82,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 299,
+    "nombre": "Jugador 299",
+    "equipo": "Espanyol",
+    "posicion": "FWD",
+    "precio": 11.7,
+    "puntos": 92,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 300,
+    "nombre": "Jugador 300",
+    "equipo": "Espanyol",
+    "posicion": "FWD",
+    "precio": 8.5,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 301,
+    "nombre": "Jugador 301",
+    "equipo": "Getafe",
+    "posicion": "GK",
+    "precio": 5.2,
+    "puntos": 53,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 302,
+    "nombre": "Jugador 302",
+    "equipo": "Getafe",
+    "posicion": "GK",
+    "precio": 5.3,
+    "puntos": 64,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 303,
+    "nombre": "Jugador 303",
+    "equipo": "Getafe",
+    "posicion": "GK",
+    "precio": 4.2,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 304,
+    "nombre": "Jugador 304",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 4.4,
+    "puntos": 94,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 305,
+    "nombre": "Jugador 305",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 6.0,
+    "puntos": 45,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 306,
+    "nombre": "Jugador 306",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 5.0,
+    "puntos": 95,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 307,
+    "nombre": "Jugador 307",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 88,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 308,
+    "nombre": "Jugador 308",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 6.4,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 309,
+    "nombre": "Jugador 309",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 66,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 310,
+    "nombre": "Jugador 310",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 78,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 311,
+    "nombre": "Jugador 311",
+    "equipo": "Getafe",
+    "posicion": "DEF",
+    "precio": 5.0,
+    "puntos": 74,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 312,
+    "nombre": "Jugador 312",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 6.3,
+    "puntos": 50,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 313,
+    "nombre": "Jugador 313",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 8.6,
+    "puntos": 86,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 314,
+    "nombre": "Jugador 314",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 6.2,
+    "puntos": 56,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 315,
+    "nombre": "Jugador 315",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 7.8,
+    "puntos": 56,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 316,
+    "nombre": "Jugador 316",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 6.1,
+    "puntos": 44,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 317,
+    "nombre": "Jugador 317",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 76,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 318,
+    "nombre": "Jugador 318",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 8.3,
+    "puntos": 59,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 319,
+    "nombre": "Jugador 319",
+    "equipo": "Getafe",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 320,
+    "nombre": "Jugador 320",
+    "equipo": "Getafe",
+    "posicion": "FWD",
+    "precio": 11.8,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 321,
+    "nombre": "Jugador 321",
+    "equipo": "Getafe",
+    "posicion": "FWD",
+    "precio": 7.6,
+    "puntos": 40,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 322,
+    "nombre": "Jugador 322",
+    "equipo": "Getafe",
+    "posicion": "FWD",
+    "precio": 10.4,
+    "puntos": 75,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 323,
+    "nombre": "Jugador 323",
+    "equipo": "Getafe",
+    "posicion": "FWD",
+    "precio": 11.2,
+    "puntos": 77,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 324,
+    "nombre": "Jugador 324",
+    "equipo": "Getafe",
+    "posicion": "FWD",
+    "precio": 8.2,
+    "puntos": 45,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 325,
+    "nombre": "Jugador 325",
+    "equipo": "Getafe",
+    "posicion": "FWD",
+    "precio": 10.4,
+    "puntos": 68,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 326,
+    "nombre": "Jugador 326",
+    "equipo": "Granada",
+    "posicion": "GK",
+    "precio": 4.5,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 327,
+    "nombre": "Jugador 327",
+    "equipo": "Granada",
+    "posicion": "GK",
+    "precio": 5.3,
+    "puntos": 41,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 328,
+    "nombre": "Jugador 328",
+    "equipo": "Granada",
+    "posicion": "GK",
+    "precio": 4.9,
+    "puntos": 82,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 329,
+    "nombre": "Jugador 329",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 88,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 330,
+    "nombre": "Jugador 330",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 4.5,
+    "puntos": 48,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 331,
+    "nombre": "Jugador 331",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 4.9,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 332,
+    "nombre": "Jugador 332",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 76,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 333,
+    "nombre": "Jugador 333",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 6.0,
+    "puntos": 77,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 334,
+    "nombre": "Jugador 334",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 335,
+    "nombre": "Jugador 335",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 6.4,
+    "puntos": 74,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 336,
+    "nombre": "Jugador 336",
+    "equipo": "Granada",
+    "posicion": "DEF",
+    "precio": 4.7,
+    "puntos": 91,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 337,
+    "nombre": "Jugador 337",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 9.0,
+    "puntos": 62,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 338,
+    "nombre": "Jugador 338",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 6.5,
+    "puntos": 56,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 339,
+    "nombre": "Jugador 339",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 90,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 340,
+    "nombre": "Jugador 340",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 6.2,
+    "puntos": 95,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 341,
+    "nombre": "Jugador 341",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 8.5,
+    "puntos": 71,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 342,
+    "nombre": "Jugador 342",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 343,
+    "nombre": "Jugador 343",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 8.3,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 344,
+    "nombre": "Jugador 344",
+    "equipo": "Granada",
+    "posicion": "MID",
+    "precio": 8.4,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 345,
+    "nombre": "Jugador 345",
+    "equipo": "Granada",
+    "posicion": "FWD",
+    "precio": 8.0,
+    "puntos": 71,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 346,
+    "nombre": "Jugador 346",
+    "equipo": "Granada",
+    "posicion": "FWD",
+    "precio": 7.2,
+    "puntos": 63,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 347,
+    "nombre": "Jugador 347",
+    "equipo": "Granada",
+    "posicion": "FWD",
+    "precio": 11.4,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 348,
+    "nombre": "Jugador 348",
+    "equipo": "Granada",
+    "posicion": "FWD",
+    "precio": 10.2,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 349,
+    "nombre": "Jugador 349",
+    "equipo": "Granada",
+    "posicion": "FWD",
+    "precio": 8.4,
+    "puntos": 47,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 350,
+    "nombre": "Jugador 350",
+    "equipo": "Granada",
+    "posicion": "FWD",
+    "precio": 10.4,
+    "puntos": 86,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 351,
+    "nombre": "Jugador 351",
+    "equipo": "Mallorca",
+    "posicion": "GK",
+    "precio": 5.3,
+    "puntos": 45,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 352,
+    "nombre": "Jugador 352",
+    "equipo": "Mallorca",
+    "posicion": "GK",
+    "precio": 4.4,
+    "puntos": 59,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 353,
+    "nombre": "Jugador 353",
+    "equipo": "Mallorca",
+    "posicion": "GK",
+    "precio": 4.1,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 354,
+    "nombre": "Jugador 354",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 40,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 355,
+    "nombre": "Jugador 355",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 4.6,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 356,
+    "nombre": "Jugador 356",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 5.6,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 357,
+    "nombre": "Jugador 357",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 60,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 358,
+    "nombre": "Jugador 358",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 5.0,
+    "puntos": 57,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 359,
+    "nombre": "Jugador 359",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 6.5,
+    "puntos": 70,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 360,
+    "nombre": "Jugador 360",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 57,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 361,
+    "nombre": "Jugador 361",
+    "equipo": "Mallorca",
+    "posicion": "DEF",
+    "precio": 6.4,
+    "puntos": 86,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 362,
+    "nombre": "Jugador 362",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 8.1,
+    "puntos": 51,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 363,
+    "nombre": "Jugador 363",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 7.0,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 364,
+    "nombre": "Jugador 364",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 9.0,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 365,
+    "nombre": "Jugador 365",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 6.4,
+    "puntos": 64,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 366,
+    "nombre": "Jugador 366",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 7.3,
+    "puntos": 58,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 367,
+    "nombre": "Jugador 367",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 8.7,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 368,
+    "nombre": "Jugador 368",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 8.9,
+    "puntos": 84,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 369,
+    "nombre": "Jugador 369",
+    "equipo": "Mallorca",
+    "posicion": "MID",
+    "precio": 7.5,
+    "puntos": 54,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 370,
+    "nombre": "Jugador 370",
+    "equipo": "Mallorca",
+    "posicion": "FWD",
+    "precio": 7.5,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 371,
+    "nombre": "Jugador 371",
+    "equipo": "Mallorca",
+    "posicion": "FWD",
+    "precio": 11.9,
+    "puntos": 85,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 372,
+    "nombre": "Jugador 372",
+    "equipo": "Mallorca",
+    "posicion": "FWD",
+    "precio": 7.8,
+    "puntos": 47,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 373,
+    "nombre": "Jugador 373",
+    "equipo": "Mallorca",
+    "posicion": "FWD",
+    "precio": 11.3,
+    "puntos": 45,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 374,
+    "nombre": "Jugador 374",
+    "equipo": "Mallorca",
+    "posicion": "FWD",
+    "precio": 10.3,
+    "puntos": 72,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 375,
+    "nombre": "Jugador 375",
+    "equipo": "Mallorca",
+    "posicion": "FWD",
+    "precio": 9.9,
+    "puntos": 79,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 376,
+    "nombre": "Jugador 376",
+    "equipo": "Alavés",
+    "posicion": "GK",
+    "precio": 5.0,
+    "puntos": 64,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 377,
+    "nombre": "Jugador 377",
+    "equipo": "Alavés",
+    "posicion": "GK",
+    "precio": 5.1,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 378,
+    "nombre": "Jugador 378",
+    "equipo": "Alavés",
+    "posicion": "GK",
+    "precio": 5.3,
+    "puntos": 73,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 379,
+    "nombre": "Jugador 379",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 380,
+    "nombre": "Jugador 380",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 4.1,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 381,
+    "nombre": "Jugador 381",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 6.1,
+    "puntos": 69,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 382,
+    "nombre": "Jugador 382",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 4.5,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 383,
+    "nombre": "Jugador 383",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 79,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 384,
+    "nombre": "Jugador 384",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 83,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 385,
+    "nombre": "Jugador 385",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 66,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 386,
+    "nombre": "Jugador 386",
+    "equipo": "Alavés",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 93,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 387,
+    "nombre": "Jugador 387",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 7.6,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 388,
+    "nombre": "Jugador 388",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 8.9,
+    "puntos": 55,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 389,
+    "nombre": "Jugador 389",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 6.2,
+    "puntos": 94,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 390,
+    "nombre": "Jugador 390",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 7.1,
+    "puntos": 40,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 391,
+    "nombre": "Jugador 391",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 7.5,
+    "puntos": 74,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 392,
+    "nombre": "Jugador 392",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 8.2,
+    "puntos": 42,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 393,
+    "nombre": "Jugador 393",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 6.6,
+    "puntos": 84,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 394,
+    "nombre": "Jugador 394",
+    "equipo": "Alavés",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 62,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 395,
+    "nombre": "Jugador 395",
+    "equipo": "Alavés",
+    "posicion": "FWD",
+    "precio": 10.1,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 396,
+    "nombre": "Jugador 396",
+    "equipo": "Alavés",
+    "posicion": "FWD",
+    "precio": 10.4,
+    "puntos": 47,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 397,
+    "nombre": "Jugador 397",
+    "equipo": "Alavés",
+    "posicion": "FWD",
+    "precio": 7.1,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 398,
+    "nombre": "Jugador 398",
+    "equipo": "Alavés",
+    "posicion": "FWD",
+    "precio": 7.1,
+    "puntos": 68,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 399,
+    "nombre": "Jugador 399",
+    "equipo": "Alavés",
+    "posicion": "FWD",
+    "precio": 7.5,
+    "puntos": 42,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 400,
+    "nombre": "Jugador 400",
+    "equipo": "Alavés",
+    "posicion": "FWD",
+    "precio": 9.2,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 401,
+    "nombre": "Jugador 401",
+    "equipo": "Las Palmas",
+    "posicion": "GK",
+    "precio": 5.5,
+    "puntos": 88,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 402,
+    "nombre": "Jugador 402",
+    "equipo": "Las Palmas",
+    "posicion": "GK",
+    "precio": 5.8,
+    "puntos": 44,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 403,
+    "nombre": "Jugador 403",
+    "equipo": "Las Palmas",
+    "posicion": "GK",
+    "precio": 4.8,
+    "puntos": 91,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 404,
+    "nombre": "Jugador 404",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 65,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 405,
+    "nombre": "Jugador 405",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 5.4,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 406,
+    "nombre": "Jugador 406",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 5.2,
+    "puntos": 51,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 407,
+    "nombre": "Jugador 407",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 60,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 408,
+    "nombre": "Jugador 408",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 72,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 409,
+    "nombre": "Jugador 409",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 75,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 410,
+    "nombre": "Jugador 410",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 6.5,
+    "puntos": 78,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 411,
+    "nombre": "Jugador 411",
+    "equipo": "Las Palmas",
+    "posicion": "DEF",
+    "precio": 4.3,
+    "puntos": 73,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 412,
+    "nombre": "Jugador 412",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 6.3,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 413,
+    "nombre": "Jugador 413",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 6.1,
+    "puntos": 45,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 414,
+    "nombre": "Jugador 414",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 8.6,
+    "puntos": 92,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 415,
+    "nombre": "Jugador 415",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 8.2,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 416,
+    "nombre": "Jugador 416",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 6.7,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 417,
+    "nombre": "Jugador 417",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 7.9,
+    "puntos": 80,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 418,
+    "nombre": "Jugador 418",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 6.9,
+    "puntos": 77,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 419,
+    "nombre": "Jugador 419",
+    "equipo": "Las Palmas",
+    "posicion": "MID",
+    "precio": 8.6,
+    "puntos": 69,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 420,
+    "nombre": "Jugador 420",
+    "equipo": "Las Palmas",
+    "posicion": "FWD",
+    "precio": 8.5,
+    "puntos": 54,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 421,
+    "nombre": "Jugador 421",
+    "equipo": "Las Palmas",
+    "posicion": "FWD",
+    "precio": 10.0,
+    "puntos": 56,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 422,
+    "nombre": "Jugador 422",
+    "equipo": "Las Palmas",
+    "posicion": "FWD",
+    "precio": 11.6,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 423,
+    "nombre": "Jugador 423",
+    "equipo": "Las Palmas",
+    "posicion": "FWD",
+    "precio": 8.6,
+    "puntos": 90,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 424,
+    "nombre": "Jugador 424",
+    "equipo": "Las Palmas",
+    "posicion": "FWD",
+    "precio": 9.4,
+    "puntos": 87,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 425,
+    "nombre": "Jugador 425",
+    "equipo": "Las Palmas",
+    "posicion": "FWD",
+    "precio": 8.5,
+    "puntos": 93,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 426,
+    "nombre": "Jugador 426",
+    "equipo": "Girona",
+    "posicion": "GK",
+    "precio": 4.2,
+    "puntos": 85,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 427,
+    "nombre": "Jugador 427",
+    "equipo": "Girona",
+    "posicion": "GK",
+    "precio": 5.3,
+    "puntos": 50,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 428,
+    "nombre": "Jugador 428",
+    "equipo": "Girona",
+    "posicion": "GK",
+    "precio": 4.9,
+    "puntos": 81,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 429,
+    "nombre": "Jugador 429",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 95,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 430,
+    "nombre": "Jugador 430",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 57,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 431,
+    "nombre": "Jugador 431",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 5.9,
+    "puntos": 60,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 432,
+    "nombre": "Jugador 432",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 4.4,
+    "puntos": 74,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 433,
+    "nombre": "Jugador 433",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 5.2,
+    "puntos": 43,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 434,
+    "nombre": "Jugador 434",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 49,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 435,
+    "nombre": "Jugador 435",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 5.9,
+    "puntos": 73,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 436,
+    "nombre": "Jugador 436",
+    "equipo": "Girona",
+    "posicion": "DEF",
+    "precio": 4.9,
+    "puntos": 56,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 437,
+    "nombre": "Jugador 437",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 7.1,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 438,
+    "nombre": "Jugador 438",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 6.4,
+    "puntos": 43,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 439,
+    "nombre": "Jugador 439",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 7.8,
+    "puntos": 94,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 440,
+    "nombre": "Jugador 440",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 8.8,
+    "puntos": 89,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 441,
+    "nombre": "Jugador 441",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 7.0,
+    "puntos": 41,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 442,
+    "nombre": "Jugador 442",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 6.7,
+    "puntos": 69,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 443,
+    "nombre": "Jugador 443",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 6.9,
+    "puntos": 56,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 444,
+    "nombre": "Jugador 444",
+    "equipo": "Girona",
+    "posicion": "MID",
+    "precio": 8.9,
+    "puntos": 72,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 445,
+    "nombre": "Jugador 445",
+    "equipo": "Girona",
+    "posicion": "FWD",
+    "precio": 9.1,
+    "puntos": 68,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 446,
+    "nombre": "Jugador 446",
+    "equipo": "Girona",
+    "posicion": "FWD",
+    "precio": 11.7,
+    "puntos": 66,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 447,
+    "nombre": "Jugador 447",
+    "equipo": "Girona",
+    "posicion": "FWD",
+    "precio": 11.5,
+    "puntos": 53,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 448,
+    "nombre": "Jugador 448",
+    "equipo": "Girona",
+    "posicion": "FWD",
+    "precio": 11.9,
+    "puntos": 84,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 449,
+    "nombre": "Jugador 449",
+    "equipo": "Girona",
+    "posicion": "FWD",
+    "precio": 9.0,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 450,
+    "nombre": "Jugador 450",
+    "equipo": "Girona",
+    "posicion": "FWD",
+    "precio": 9.5,
+    "puntos": 84,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 451,
+    "nombre": "Jugador 451",
+    "equipo": "Rayo Vallecano",
+    "posicion": "GK",
+    "precio": 5.3,
+    "puntos": 80,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 452,
+    "nombre": "Jugador 452",
+    "equipo": "Rayo Vallecano",
+    "posicion": "GK",
+    "precio": 4.1,
+    "puntos": 78,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 453,
+    "nombre": "Jugador 453",
+    "equipo": "Rayo Vallecano",
+    "posicion": "GK",
+    "precio": 4.0,
+    "puntos": 72,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 454,
+    "nombre": "Jugador 454",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 4.2,
+    "puntos": 71,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 455,
+    "nombre": "Jugador 455",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 4.4,
+    "puntos": 90,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 456,
+    "nombre": "Jugador 456",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 5.5,
+    "puntos": 58,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 457,
+    "nombre": "Jugador 457",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 64,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 458,
+    "nombre": "Jugador 458",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 4.9,
+    "puntos": 64,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 459,
+    "nombre": "Jugador 459",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 5.2,
+    "puntos": 60,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 460,
+    "nombre": "Jugador 460",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 5.1,
+    "puntos": 50,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 461,
+    "nombre": "Jugador 461",
+    "equipo": "Rayo Vallecano",
+    "posicion": "DEF",
+    "precio": 6.2,
+    "puntos": 83,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 462,
+    "nombre": "Jugador 462",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 8.4,
+    "puntos": 52,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 463,
+    "nombre": "Jugador 463",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 6.5,
+    "puntos": 65,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 464,
+    "nombre": "Jugador 464",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 7.3,
+    "puntos": 85,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 465,
+    "nombre": "Jugador 465",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 6.2,
+    "puntos": 67,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 466,
+    "nombre": "Jugador 466",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 6.1,
+    "puntos": 67,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 467,
+    "nombre": "Jugador 467",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 7.5,
+    "puntos": 84,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 468,
+    "nombre": "Jugador 468",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 7.4,
+    "puntos": 63,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 469,
+    "nombre": "Jugador 469",
+    "equipo": "Rayo Vallecano",
+    "posicion": "MID",
+    "precio": 6.8,
+    "puntos": 64,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 470,
+    "nombre": "Jugador 470",
+    "equipo": "Rayo Vallecano",
+    "posicion": "FWD",
+    "precio": 8.4,
+    "puntos": 57,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 471,
+    "nombre": "Jugador 471",
+    "equipo": "Rayo Vallecano",
+    "posicion": "FWD",
+    "precio": 8.5,
+    "puntos": 73,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 472,
+    "nombre": "Jugador 472",
+    "equipo": "Rayo Vallecano",
+    "posicion": "FWD",
+    "precio": 10.0,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 473,
+    "nombre": "Jugador 473",
+    "equipo": "Rayo Vallecano",
+    "posicion": "FWD",
+    "precio": 9.5,
+    "puntos": 53,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 474,
+    "nombre": "Jugador 474",
+    "equipo": "Rayo Vallecano",
+    "posicion": "FWD",
+    "precio": 11.2,
+    "puntos": 70,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 475,
+    "nombre": "Jugador 475",
+    "equipo": "Rayo Vallecano",
+    "posicion": "FWD",
+    "precio": 11.0,
+    "puntos": 51,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 476,
+    "nombre": "Jugador 476",
+    "equipo": "Cádiz",
+    "posicion": "GK",
+    "precio": 4.6,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 477,
+    "nombre": "Jugador 477",
+    "equipo": "Cádiz",
+    "posicion": "GK",
+    "precio": 4.3,
+    "puntos": 78,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 478,
+    "nombre": "Jugador 478",
+    "equipo": "Cádiz",
+    "posicion": "GK",
+    "precio": 5.2,
+    "puntos": 53,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 479,
+    "nombre": "Jugador 479",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 5.9,
+    "puntos": 42,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 480,
+    "nombre": "Jugador 480",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 5.8,
+    "puntos": 52,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 481,
+    "nombre": "Jugador 481",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 5.3,
+    "puntos": 46,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 482,
+    "nombre": "Jugador 482",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 4.6,
+    "puntos": 69,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 483,
+    "nombre": "Jugador 483",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 5.6,
+    "puntos": 76,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 484,
+    "nombre": "Jugador 484",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 5.7,
+    "puntos": 80,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 485,
+    "nombre": "Jugador 485",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 4.8,
+    "puntos": 55,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 486,
+    "nombre": "Jugador 486",
+    "equipo": "Cádiz",
+    "posicion": "DEF",
+    "precio": 5.6,
+    "puntos": 68,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 487,
+    "nombre": "Jugador 487",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 7.1,
+    "puntos": 87,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 488,
+    "nombre": "Jugador 488",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 7.7,
+    "puntos": 67,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 489,
+    "nombre": "Jugador 489",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 7.2,
+    "puntos": 46,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 490,
+    "nombre": "Jugador 490",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 7.1,
+    "puntos": 89,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 491,
+    "nombre": "Jugador 491",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 6.9,
+    "puntos": 42,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 492,
+    "nombre": "Jugador 492",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 8.7,
+    "puntos": 88,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 493,
+    "nombre": "Jugador 493",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 6.7,
+    "puntos": 72,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 494,
+    "nombre": "Jugador 494",
+    "equipo": "Cádiz",
+    "posicion": "MID",
+    "precio": 8.9,
+    "puntos": 89,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 495,
+    "nombre": "Jugador 495",
+    "equipo": "Cádiz",
+    "posicion": "FWD",
+    "precio": 7.7,
+    "puntos": 71,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 496,
+    "nombre": "Jugador 496",
+    "equipo": "Cádiz",
+    "posicion": "FWD",
+    "precio": 10.2,
+    "puntos": 44,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 497,
+    "nombre": "Jugador 497",
+    "equipo": "Cádiz",
+    "posicion": "FWD",
+    "precio": 7.0,
+    "puntos": 70,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 498,
+    "nombre": "Jugador 498",
+    "equipo": "Cádiz",
+    "posicion": "FWD",
+    "precio": 7.3,
+    "puntos": 77,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 499,
+    "nombre": "Jugador 499",
+    "equipo": "Cádiz",
+    "posicion": "FWD",
+    "precio": 11.3,
+    "puntos": 90,
+    "form": "📈",
+    "foto": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 500,
+    "nombre": "Jugador 500",
+    "equipo": "Cádiz",
+    "posicion": "FWD",
+    "precio": 11.4,
+    "puntos": 59,
+    "form": "📉",
+    "foto": "https://via.placeholder.com/100"
+  }
+]
